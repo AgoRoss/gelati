@@ -1,0 +1,5 @@
+C:\Users\PC\Desktop\rossini.agostino.4h.gelati\rossini.agostino.4h.gelati\obj\Debug\net6.0-windows\rossini.agostino.4h.gelati.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\rossini.agostino.4h.gelati\rossini.agostino.4h.gelati\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\PC\Desktop\rossini.agostino.4h.gelati\rossini.agostino.4h.gelati\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\PC\Desktop\rossini.agostino.4h.gelati\rossini.agostino.4h.gelati\obj\Debug\net6.0-windows\rossini.agostino.4h.gelati_MarkupCompile.cache
+C:\Users\PC\Desktop\rossini.agostino.4h.gelati\rossini.agostino.4h.gelati\obj\Debug\net6.0-windows\rossini.agostino.4h.gelati_MarkupCompile.lref
